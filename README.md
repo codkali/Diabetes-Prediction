@@ -46,3 +46,6 @@ Contributions are welcome! Open an issue or submit a pull request.
 
 Let’s make healthcare smarter! 🩺💻
 
+## Linkedin Post Link 
+![Link](https://www.linkedin.com/posts/dhruva-41ab612bb_i-am-happy-to-share-that-i-have-completed-activity-7296414158403624961-mtYo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEzhIxYBSgvi55vAYRgvYGyeMzqQ53U2Guo)
+
